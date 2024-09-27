@@ -1,2 +1,1 @@
-# 1.-Two-Sum
-1 out of the 3 coding challenges
+Hello! this is one of the coding challenges suggested by the Freshmen Immigration course in CMUQ.
